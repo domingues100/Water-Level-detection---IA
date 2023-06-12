@@ -1,1 +1,4 @@
-# Water-Level-detection---IA
+- Labels are in Labels folds;
+- The folds used before are in Folds -> Training_folds / Validation_folds;
+- Diferents sets of images are in Images fold, but the folds used before were just used for pool images;
+- Regression.ipynb is the main code.
